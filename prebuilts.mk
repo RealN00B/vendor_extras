@@ -29,9 +29,3 @@ endif
 # Via
 PRODUCT_PACKAGES += \
     ViaBrowser
-
-# ViMusic
-ifeq ($(TARGET_BUILD_VIMUSIC),true)
-PRODUCT_PACKAGES += \
-    ViMusic
-endif

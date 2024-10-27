@@ -33,15 +33,3 @@ android_app_import {
 	product_specific: true,
 	overrides: ["Gallery2"],
 }
-
-android_app_import {
-	name: "ViMusic",
-	owner: "vfsfitvnm",
-	apk: "ViMusic/vimusic-0.5.4.apk",
-	preprocessed: true,
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
