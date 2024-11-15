@@ -40,3 +40,7 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap \
     SystemUIClocks-Weather
+
+# JudgeInterface
+PRODUCT_PACKAGES += \
+    JudgeInterface
